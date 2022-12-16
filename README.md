@@ -7,6 +7,7 @@ To compile the program type
 
 To run the program type
 `ant run`
+
 Or to do both things...
 `ant compile && ant run`
 
